@@ -1,2 +1,2 @@
-# UsefulLinks
-Links to be included in the portfolio repo.
+# ASE Resources
+Extra resources foir the module, usually directly linked elsewhere.
