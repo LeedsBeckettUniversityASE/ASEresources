@@ -1,7 +1,7 @@
 # Links to resources you will find helpful on ASE
 
 ## General Assignment Links
-**Ensure you have read, rearead and READ AGAIN BEFORE HANDING IN the [assignmemnt specification on myBeckett](https://my.leedsbeckett.ac.uk/ultra/courses/_191045_1/outline).
+**Ensure you have read, rearead and READ AGAIN BEFORE HANDING IN the assignmemnt specification on myBeckett.
 
 [ASE Support Material Repo](https://github.com/LeedsBeckettUniversityASE/SEsupportMaterial)
 
