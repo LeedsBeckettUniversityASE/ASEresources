@@ -17,4 +17,4 @@
 ## Assignment 2 Links
 [BOOSE Documentation](https://dmullier.github.io/BOOSE-Docs/)
 
-[BOOSE Example Programs](https://github.com/LeedsBeckettUniversityASE/ASEportfolio/tree/main/BOOSEexamplePrograms)
+[BOOSE Example Programs](https://github.com/dmullier/BOOSE-Docs/tree/main/BOOSEexamplePrograms) 
