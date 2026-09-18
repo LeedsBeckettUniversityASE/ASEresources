@@ -5,7 +5,7 @@
 
 [ASE Support Material Repo](https://github.com/LeedsBeckettUniversityASE/SEsupportMaterial)
 
-[Recording your YouTube Demo.](https://docs.google.com/document/d/1soUvlj9sm1gEJVbgrrJbKRKm0WyZrasGAaf3ROYx-ZM/edit?usp=sharing)
+[Recording your YouTube Demo.](https://github.com/LeedsBeckettUniversityASE/ASEresources/blob/main/Recording_A_YouTube_Demo.md)
 
 [University's Flexible Submission Policy](https://drive.google.com/file/d/108-9vWaaakjDZKFBI6SffSGaSzmYbNJk/view?usp=sharing)
 
