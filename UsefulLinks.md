@@ -14,6 +14,11 @@
 **Module Leaders cannot give out extensions, so don't ask**
 ## Assignment 1 Links
 [AI Programming Tutorial to follow for your assignment](https://github.com/LeedsBeckettUniversityASE/SEsupportMaterial/blob/main/VisualStudioAIprogramming.md). 
+
+[Setting up a Local LLM](https://github.com/LeedsBeckettUniversityASE/SEsupportMaterial/blob/main/LocalLLMsetup.md)
+
+[Using GitHub for AI Programming](https://github.com/LeedsBeckettUniversityASE/SEsupportMaterial/blob/main/UsingGitHubWIthAI.md)
+
 ## Assignment 2 Links
 [BOOSE Documentation](https://dmullier.github.io/BOOSE-Docs/)
 
