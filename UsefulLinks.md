@@ -18,3 +18,7 @@
 [BOOSE Documentation](https://dmullier.github.io/BOOSE-Docs/)
 
 [BOOSE Example Programs](https://github.com/dmullier/BOOSE-Docs/tree/main/BOOSEexamplePrograms) 
+
+[BOOSE Exception source files](https://github.com/dmullier/BOOSE-Docs/tree/main/BOOSEExceptions)
+
+[BOOSE Interface source files](https://github.com/dmullier/BOOSE-Docs/tree/main/BOOSEInterfaces)
