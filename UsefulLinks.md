@@ -20,7 +20,7 @@
 [Using GitHub for AI Programming](https://github.com/LeedsBeckettUniversityASE/SEsupportMaterial/blob/main/UsingGitHubWIthAI.md)
 
 ## Assignment 2 Links
-[BOOSE Documentation](https://dmullier.github.io/BOOSE-Docs/)
+[BOOSE Documentation]([https://dmullier.github.io/BOOSE-Docs/](https://dmullier.github.io/BOOSE/))
 
 [BOOSE Example Programs](https://github.com/dmullier/BOOSE-Docs/tree/main/BOOSEexamplePrograms) 
 
