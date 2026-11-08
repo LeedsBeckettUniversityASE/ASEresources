@@ -2,20 +2,21 @@
 
 # Student Accounts
 
-The University had disconted Google and YouTube accounts in 2026/27.
+The University has disconted Google and YouTube accounts in 2026/27.
 
-This means you will have to use your own Google account for the form and your own YouTube account.
+This means you will have to use your own Google account for the form and your own YouTube account for your demo.
 
-**Your video must be unlisted but not private.**
+
 
 # Recording A Video Demo
 
 Your video must have:  
 **chapter markers**  
-**audio descriptions**  
+**audio descriptions**   i.e. you are explaining your code with your voice.
 **show the form for each question** (it can be hidden when showing code).  
 **should be set as “unlisted”** if they are private I can’t see it.  
 **Your Video can be of any length.**
+**If you do not explain your code you will be asked to record it again or asked to do a libve demo**
 
 If you have any recommendations for recording and editing software for various platforms then please email [d.mullier@leedsbeckett.ac.uk](mailto:d.mullier@leedsbeckett.ac.uk) and I’ll add it here.
 
