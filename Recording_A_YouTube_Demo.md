@@ -2,9 +2,11 @@
 
 # Student Accounts
 
-You have a YouTube account, use your University credentials. The University is discontinuing this for 2026/27.
+The University had disconted Google and YouTube accounts in 2026/27.
 
-Or you can create your own account and use that. Your video must be unlisted but not private.
+This means you will have to use your own Google account for the form and your own YouTube account.
+
+**Your video must be unlisted but not private.**
 
 # Recording A Video Demo
 
@@ -62,9 +64,7 @@ All I do for my videos is look at the waveform, where there are gaps it indicate
 **NOTE when uploading to YouTube you must verify your account, otherwise you will be limited to 15 minutes.**  
 **If your video is over 15 minutes long you need to enable special features on your YouTube: account settings\>channel\>feature eligibility-\>features that require phone verification**
 
-**For programming code demos (Object Orientated Programming, Software Engineering 4 and Advanced Software Engineering (this is not necessary for Core Project 4)).**
-
-**You** MUSTthe google form in your video as you fill it in.   
+**You** MUST show the google form in your video as you fill it in.   
 **You** MUST put chapters in your video for each question on the form
 
 **How To Make Chapters/Timestamps for your Demo Videos**
@@ -86,4 +86,4 @@ But it is a manual process.
 [Video chapters \- YouTube Help](https://support.google.com/youtube/answer/9884579?hl=en-GB)  
 Video chapters break up a video into sections, each with an individual preview. Video chapters add info and context to each portion of the video and let you easily rewatch different parts of the video
 
-**If you do not record audio on your demo you are highly likely to be called in for a face to face demo because it will be difficult to mark.**  
+**If you do not record audio on your demo you are highly likely to be called in for a face to face demo or asked to rerecor your demo as otherwise it would be impossible to mark.**  
