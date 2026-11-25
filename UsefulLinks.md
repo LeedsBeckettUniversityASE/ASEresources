@@ -24,6 +24,8 @@
 
 [BOOSE Example Programs](https://github.com/dmullier/BOOSE-Docs/tree/main/BOOSEexamplePrograms) 
 
+[BOOSE Programming Language Guide](https://github.com/dmullier/BOOSE-Docs/blob/main/BOOSEguide.md)
+
 [BOOSE Exception source files](https://github.com/dmullier/BOOSE-Docs/tree/main/BOOSEExceptions)
 
 [BOOSE Interface source files](https://github.com/dmullier/BOOSE-Docs/tree/main/BOOSEInterfaces)
